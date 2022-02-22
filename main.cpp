@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: kid
+//  action 1: the kid jumps
+kid.jump();
+//  action 2: the kid plays
+kid.play();
+//  action 3: the kid runs
+kid.run();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat eats
+cat.eat();
+//  action 2: the cat scratches
+cat.scratch();
+//  action 3: the cat meows
+cat.meow();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog smells his food
+dog.smellFood();
+//  action 3: the dog sleeps
+dog.sleep();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bird
+//  action 1: the bird sings
+bird.sing();
+//  action 2: the bird flies
+bird.fly();
+//  action 3: the bird migrates
+bird.migrate();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: driver
+//  action 1: the driver moves
+driver.move();
+//  action 2: the driver turns
+driver.turn();
+//  action 3: the driver brakes
+driver.brake();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: fish
+//  action 1: the fish swims
+fish.swim();
+//  action 2: the fish escapes
+fish.escape();
+//  action 3: the fish eats algae
+fish.eatAlgae();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: pianist
+//  action 1: the pianist plays Bach
+pianist.playBach();
+//  action 2: the pianist plays Mozart
+pianist.playMozart();
+//  action 3: the pianist plays Beethoven
+pianist.playBeethoven();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: programmer
+//  action 1: the programmer writes C++
+programmer.writeC++();
+//  action 2: the programmer writes Java
+programmer.writeJava();
+//  action 3: the programmer writes Phython
+programmer.writePhython();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: teacher
+//  action 1: the teacher teaches Math
+teacher.teachMath();
+//  action 2: the teacher teaches English
+teacher.teachEnglish();
+//  action 3: the teacher teaches Music
+teacher.teachMusic();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: violinist
+//  action 1: the violinist plays intevals
+violinist.playIntervals();
+//  action 2: the violinist plays arpeggios
+violinist.playArpeggios();
+//  action 3: the violinist plays scales
+violinist.playScales();
 
 
 #endif
