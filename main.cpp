@@ -116,13 +116,13 @@ programmer.writeJava();
 //  action 3: the programmer writes Phython
 programmer.writePhython();
 //  9)
-//  Noun: teacher
-//  action 1: the teacher teaches Math
-teacher.teachMath();
-//  action 2: the teacher teaches English
-teacher.teachEnglish();
-//  action 3: the teacher teaches Music
-teacher.teachMusic();
+//  Noun: musicTeacher
+//  action 1: the music teacher teaches harmony
+musicTeacher.teachHarmony();
+//  action 2: the music teacher teaches polyrhythms 
+musicTeacher.teachPolyrhythms();
+//  action 3: the music teacher teaches classical music history
+musicTeacher.teachClassicalMusicHistory();
 //  10)
 //  Noun: violinist
 //  action 1: the violinist plays intevals
