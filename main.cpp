@@ -110,7 +110,7 @@ pianist.playBeethoven();
 //  8)
 //  Noun: programmer
 //  action 1: the programmer writes C++
-programmer.writeC++();
+programmer.writeCpp();
 //  action 2: the programmer writes Java
 programmer.writeJava();
 //  action 3: the programmer writes Phython
